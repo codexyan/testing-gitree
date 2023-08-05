@@ -1,3 +1,2 @@
 # Website GIT Fundamental
-
-ini perubahan di branch master
+Learning fundamental git version control
