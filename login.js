@@ -5,3 +5,10 @@ class Login {
         this.password = password;
     }
 }
+
+// Fix login bug
+try {
+    
+} catch (error) {
+    
+}
