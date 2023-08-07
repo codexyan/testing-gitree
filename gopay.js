@@ -4,4 +4,9 @@ class Gopay {
         this.idr = idr;
         this.number = number;
     }
+
+    // Fungsi notification
+    getNotification(name){
+        alert(`Halo kak ${name}, saldo Anda ${this.number} ${this.idr}`)
+    }
 }
